@@ -1,0 +1,501 @@
+customer_id,city_tier,income_bracket,loan_amount,emi_amount,due_date,paid_date,days_past_due,channel_used,previous_delinquency,response_text
+CUST_0001,2,Medium,77134,3400.0,2025-10-08,2025-10-11,3,Agent,Yes,Need settlement offer
+CUST_0002,3,Medium,40491,2100.0,2025-10-18,2025-10-18,0,AI_Call,Yes,Dispute on EMI amount
+CUST_0003,3,Low,21341,3000.0,2025-10-23,2025-10-26,3,IVR,No,Will pay tomorrow
+CUST_0004,2,Medium,64623,4600.0,2025-10-09,2025-10-09,0,IVR,No,Will pay tomorrow
+CUST_0005,1,Medium,20338,2000.0,2025-10-25,2025-11-24,30,Agent,No,Paid already
+CUST_0006,1,Low,91431,15200.0,2025-10-08,2025-10-08,0,WhatsApp,No,Paid already
+CUST_0007,1,High,32254,4000.0,2025-10-27,2025-10-27,0,IVR,No,Dispute on EMI amount
+CUST_0008,3,Medium,71860,6500.0,2025-10-14,2025-10-17,3,AI_Call,No,"Lost my job, need more time"
+CUST_0009,2,High,31344,3100.0,2025-10-28,2025-10-28,0,AI_Call,No,No response
+CUST_0010,3,Medium,21750,2200.0,2025-10-26,2025-10-26,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0011,1,Medium,74756,12500.0,2025-10-25,2025-11-01,7,AI_Call,Yes,No response
+CUST_0012,3,Low,87957,4000.0,2025-10-18,2025-11-02,15,AI_Call,No,No response
+CUST_0013,3,High,78053,4100.0,2025-10-22,2025-10-22,0,WhatsApp,No,Need settlement offer
+CUST_0014,2,Medium,90855,5300.0,2025-10-20,2025-10-27,7,Agent,Yes,Need settlement offer
+CUST_0015,1,Low,35896,2400.0,2025-10-30,2025-12-14,45,WhatsApp,No,Paid already
+CUST_0016,1,Low,75761,3300.0,2025-10-20,2025-11-04,15,IVR,No,Need settlement offer
+CUST_0017,2,Low,82552,5200.0,2025-10-21,2025-10-21,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0018,2,Medium,97454,13900.0,2025-10-12,2025-10-19,7,WhatsApp,No,Will pay next week
+CUST_0019,2,High,47935,2100.0,2025-10-19,2025-10-19,0,Agent,No,"Lost my job, need more time"
+CUST_0020,2,Low,57641,4800.0,2025-10-14,2025-12-13,60,IVR,No,Need settlement offer
+CUST_0021,2,Medium,49711,2500.0,2025-10-17,2025-10-17,0,IVR,No,No response
+CUST_0022,1,Low,90342,5600.0,2025-10-24,2025-10-24,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0023,2,High,32182,1400.0,2025-10-21,2025-10-28,7,IVR,No,"Lost my job, need more time"
+CUST_0024,2,Medium,76276,4500.0,2025-10-03,2025-10-03,0,IVR,Yes,Paid already
+CUST_0025,2,Medium,39541,3600.0,2025-10-26,2025-12-25,60,IVR,Yes,No response
+CUST_0026,3,Low,64813,3600.0,2025-10-30,2025-12-14,45,WhatsApp,No,No response
+CUST_0027,1,Low,57198,2700.0,2025-10-23,2025-10-26,3,Agent,No,Will clear dues soon
+CUST_0028,2,Low,28820,1300.0,2025-10-07,2025-10-07,0,IVR,No,Cannot pay right now
+CUST_0029,2,Low,44070,2900.0,2025-10-17,2025-10-20,3,IVR,No,Need settlement offer
+CUST_0030,1,Medium,89768,6900.0,2025-10-12,2025-10-12,0,WhatsApp,Yes,Need settlement offer
+CUST_0031,2,Medium,31122,1400.0,2025-10-09,2025-10-09,0,AI_Call,No,No response
+CUST_0032,1,High,93543,15600.0,2025-10-15,2025-10-30,15,IVR,No,Cannot pay right now
+CUST_0033,1,High,61786,4800.0,2025-10-18,2025-10-18,0,IVR,Yes,Will clear dues soon
+CUST_0034,3,Medium,26737,2400.0,2025-10-21,2025-10-21,0,WhatsApp,No,No response
+CUST_0035,3,Medium,56062,5600.0,2025-10-13,2025-11-27,45,Agent,Yes,Will pay tomorrow
+CUST_0036,3,High,74237,3700.0,2025-10-30,2025-10-30,0,WhatsApp,No,Paid already
+CUST_0037,2,Medium,71571,3600.0,2025-10-21,2025-10-21,0,AI_Call,No,Will clear dues soon
+CUST_0038,1,Low,45510,6500.0,2025-10-30,2025-11-29,30,IVR,No,Cannot pay right now
+CUST_0039,2,Low,39426,6600.0,2025-10-08,2025-10-08,0,WhatsApp,No,Paid already
+CUST_0040,2,Low,57265,3600.0,2025-10-14,2025-10-21,7,AI_Call,No,Cannot pay right now
+CUST_0041,1,High,37850,2500.0,2025-10-08,2025-12-07,60,WhatsApp,No,Please stop calling
+CUST_0042,2,Medium,86150,3700.0,2025-10-14,2025-11-13,30,Agent,Yes,Please stop calling
+CUST_0043,1,Low,94910,4100.0,2025-10-07,2025-10-10,3,Agent,No,Dispute on EMI amount
+CUST_0044,3,Medium,72375,3300.0,2025-10-23,2025-10-23,0,Agent,No,Please stop calling
+CUST_0045,2,Medium,55435,4300.0,2025-10-12,2025-10-12,0,WhatsApp,No,Need settlement offer
+CUST_0046,2,Low,77132,3900.0,2025-10-11,2025-10-26,15,AI_Call,No,Cannot pay right now
+CUST_0047,2,Low,98945,7600.0,2025-10-22,2025-11-21,30,IVR,Yes,Dispute on EMI amount
+CUST_0048,2,Medium,22983,1000.0,2025-10-22,2025-10-22,0,Agent,No,Dispute on EMI amount
+CUST_0049,2,Medium,40662,2400.0,2025-10-11,2025-10-11,0,AI_Call,No,Cannot pay right now
+CUST_0050,1,Medium,43510,3300.0,2025-10-25,2025-10-25,0,AI_Call,Yes,Will pay tomorrow
+CUST_0051,3,Medium,98187,5200.0,2025-10-22,2025-10-22,0,IVR,No,Will pay tomorrow
+CUST_0052,3,Medium,60998,6800.0,2025-10-28,2025-11-04,7,IVR,Yes,Need settlement offer
+CUST_0053,3,Medium,76846,12800.0,2025-10-29,2025-10-29,0,WhatsApp,No,Please stop calling
+CUST_0054,3,Medium,26640,4400.0,2025-10-13,2025-11-12,30,AI_Call,No,Will pay tomorrow
+CUST_0055,2,Medium,64547,3100.0,2025-10-18,2025-10-25,7,IVR,No,Will pay next week
+CUST_0056,3,Low,74620,3900.0,2025-10-02,2025-10-02,0,IVR,No,Will pay next week
+CUST_0057,1,Low,35317,1700.0,2025-10-29,2025-11-01,3,AI_Call,No,Dispute on EMI amount
+CUST_0058,1,Low,27564,2800.0,2025-10-21,2025-10-21,0,IVR,No,No response
+CUST_0059,1,Medium,47345,3400.0,2025-10-15,2025-10-18,3,WhatsApp,No,Paid already
+CUST_0060,2,Medium,99273,14200.0,2025-10-20,2025-10-27,7,IVR,No,Cannot pay right now
+CUST_0061,2,Medium,94859,4100.0,2025-10-27,2025-11-11,15,IVR,No,Will pay next week
+CUST_0062,2,Low,94038,8500.0,2025-10-18,2025-11-02,15,IVR,Yes,Please stop calling
+CUST_0063,3,Low,72393,5200.0,2025-10-15,2025-10-15,0,WhatsApp,No,Paid already
+CUST_0064,2,Low,86081,14300.0,2025-10-19,2025-10-19,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0065,2,Low,49430,3500.0,2025-10-23,2025-10-30,7,WhatsApp,Yes,Please stop calling
+CUST_0066,2,Medium,95532,4500.0,2025-10-24,2025-10-24,0,AI_Call,No,Dispute on EMI amount
+CUST_0067,1,Low,47788,2700.0,2025-10-12,2025-10-12,0,WhatsApp,No,Cannot pay right now
+CUST_0068,3,Low,68543,4900.0,2025-10-13,2025-10-13,0,IVR,Yes,Will clear dues soon
+CUST_0069,1,High,33919,1900.0,2025-10-22,2025-10-25,3,Agent,No,Will pay next week
+CUST_0070,3,Low,89346,6400.0,2025-10-11,2025-10-11,0,WhatsApp,No,Will pay tomorrow
+CUST_0071,3,Medium,59974,3700.0,2025-10-05,2025-10-08,3,IVR,No,Need settlement offer
+CUST_0072,1,Medium,36371,4000.0,2025-10-29,2025-12-28,60,AI_Call,Yes,Need settlement offer
+CUST_0073,1,Low,65084,9300.0,2025-10-01,2025-10-01,0,Agent,Yes,Cannot pay right now
+CUST_0074,3,Medium,49629,4500.0,2025-10-24,2025-10-24,0,AI_Call,No,Will pay next week
+CUST_0075,3,Medium,71184,3700.0,2025-10-03,2025-10-03,0,AI_Call,No,Will pay next week
+CUST_0076,3,High,81916,9100.0,2025-10-22,2025-11-06,15,AI_Call,No,Please stop calling
+CUST_0077,3,Low,93972,8500.0,2025-10-19,2025-10-19,0,IVR,No,Need settlement offer
+CUST_0078,1,High,82187,7500.0,2025-10-23,2025-10-23,0,AI_Call,Yes,Please stop calling
+CUST_0079,2,Low,32984,4700.0,2025-10-29,2025-10-29,0,WhatsApp,No,Will clear dues soon
+CUST_0080,1,Low,53039,2300.0,2025-10-30,2025-11-06,7,Agent,Yes,"Lost my job, need more time"
+CUST_0081,3,Low,78606,4400.0,2025-10-07,2025-10-07,0,IVR,No,Will pay next week
+CUST_0082,2,High,30616,2200.0,2025-10-12,2025-10-19,7,IVR,No,Will clear dues soon
+CUST_0083,2,Low,70072,3900.0,2025-10-15,2025-11-14,30,WhatsApp,No,Please stop calling
+CUST_0084,1,Low,44574,2800.0,2025-10-25,2025-10-25,0,AI_Call,No,Paid already
+CUST_0085,2,Medium,23430,3900.0,2025-10-05,2025-10-20,15,WhatsApp,Yes,Will pay tomorrow
+CUST_0086,2,Low,32676,2700.0,2025-10-15,2025-10-15,0,Agent,No,Will pay next week
+CUST_0087,3,Low,30816,1500.0,2025-10-08,2025-11-07,30,AI_Call,No,Will clear dues soon
+CUST_0088,2,Low,52733,8800.0,2025-10-10,2025-10-13,3,WhatsApp,No,No response
+CUST_0089,3,Low,22050,1300.0,2025-10-26,2025-11-25,30,AI_Call,No,Will pay next week
+CUST_0090,2,Low,53933,4500.0,2025-10-16,2025-10-16,0,AI_Call,No,Paid already
+CUST_0091,1,Low,44951,2200.0,2025-10-08,2025-10-08,0,AI_Call,No,Dispute on EMI amount
+CUST_0092,3,Medium,52413,8700.0,2025-10-01,2025-10-01,0,IVR,Yes,Paid already
+CUST_0093,3,Low,54801,2500.0,2025-10-12,2025-10-12,0,WhatsApp,No,Paid already
+CUST_0094,2,Low,75619,3400.0,2025-10-05,2025-10-05,0,WhatsApp,No,Will pay next week
+CUST_0095,3,Medium,52913,6600.0,2025-10-03,2025-10-03,0,WhatsApp,No,Paid already
+CUST_0096,2,Low,60600,3600.0,2025-10-01,2025-10-01,0,Agent,No,Paid already
+CUST_0097,2,Medium,77775,7100.0,2025-10-04,2025-10-04,0,WhatsApp,Yes,Dispute on EMI amount
+CUST_0098,2,Low,55400,3500.0,2025-10-08,2025-10-23,15,AI_Call,Yes,Will pay tomorrow
+CUST_0099,1,Low,24494,3100.0,2025-10-03,2025-10-03,0,WhatsApp,No,Need settlement offer
+CUST_0100,1,Low,94691,7300.0,2025-10-10,2025-10-10,0,IVR,No,Need settlement offer
+CUST_0101,1,Low,63001,3300.0,2025-10-02,2025-10-02,0,AI_Call,Yes,Cannot pay right now
+CUST_0102,2,Low,87364,4600.0,2025-10-11,2025-10-11,0,Agent,No,No response
+CUST_0103,2,Low,65028,4300.0,2025-10-25,2025-12-09,45,WhatsApp,No,No response
+CUST_0104,2,Low,57573,8200.0,2025-10-10,2025-10-10,0,IVR,Yes,Cannot pay right now
+CUST_0105,3,Low,20806,1100.0,2025-10-21,2025-10-28,7,IVR,No,Will pay tomorrow
+CUST_0106,2,Low,76638,5500.0,2025-10-14,2025-11-28,45,WhatsApp,No,Need settlement offer
+CUST_0107,2,Low,49757,6200.0,2025-10-07,2025-10-22,15,WhatsApp,No,Please stop calling
+CUST_0108,3,Low,54636,4200.0,2025-10-27,2025-10-30,3,IVR,No,"Lost my job, need more time"
+CUST_0109,2,Medium,68280,3300.0,2025-10-27,2025-11-11,15,IVR,Yes,Will pay tomorrow
+CUST_0110,1,Medium,44262,6300.0,2025-10-02,2025-12-01,60,AI_Call,No,Please stop calling
+CUST_0111,2,Low,82211,7500.0,2025-10-09,2025-10-12,3,IVR,No,Cannot pay right now
+CUST_0112,1,Medium,74842,4400.0,2025-10-16,2025-10-19,3,IVR,No,Cannot pay right now
+CUST_0113,3,Medium,76979,7700.0,2025-10-13,2025-10-16,3,IVR,No,Will clear dues soon
+CUST_0114,3,Low,58197,8300.0,2025-10-09,2025-10-09,0,AI_Call,No,Please stop calling
+CUST_0115,2,Medium,61844,2900.0,2025-10-20,2025-10-23,3,Agent,No,Will pay next week
+CUST_0116,3,High,84754,8500.0,2025-10-04,2025-10-04,0,IVR,No,Need settlement offer
+CUST_0117,3,Low,54157,2700.0,2025-10-22,2025-10-22,0,AI_Call,No,Please stop calling
+CUST_0118,1,Low,97129,5700.0,2025-10-10,2025-10-10,0,WhatsApp,No,Cannot pay right now
+CUST_0119,3,Medium,60042,6700.0,2025-10-26,2025-10-26,0,IVR,No,Cannot pay right now
+CUST_0120,2,Medium,81665,4100.0,2025-10-26,2025-10-26,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0121,3,Low,47376,3000.0,2025-10-22,2025-10-22,0,IVR,Yes,Dispute on EMI amount
+CUST_0122,3,Low,75554,3600.0,2025-10-12,2025-10-15,3,AI_Call,Yes,Will pay tomorrow
+CUST_0123,2,Low,34199,3100.0,2025-10-17,2025-10-17,0,Agent,No,Will clear dues soon
+CUST_0124,1,Low,70948,3700.0,2025-10-14,2025-10-29,15,WhatsApp,No,Cannot pay right now
+CUST_0125,2,Medium,93781,4100.0,2025-10-14,2025-10-14,0,AI_Call,No,"Lost my job, need more time"
+CUST_0126,2,Low,92750,5500.0,2025-10-25,2025-10-25,0,IVR,No,Dispute on EMI amount
+CUST_0127,3,Low,86262,5400.0,2025-10-02,2025-10-09,7,WhatsApp,No,Will pay next week
+CUST_0128,3,Medium,66600,3700.0,2025-10-21,2025-10-24,3,WhatsApp,Yes,Will pay tomorrow
+CUST_0129,1,Low,96898,6100.0,2025-10-25,2025-10-25,0,WhatsApp,No,No response
+CUST_0130,2,Low,82483,3900.0,2025-10-20,2025-11-19,30,WhatsApp,No,Dispute on EMI amount
+CUST_0131,2,Medium,38297,1900.0,2025-10-11,2025-11-10,30,WhatsApp,No,Please stop calling
+CUST_0132,2,Medium,50448,2500.0,2025-10-16,2025-10-16,0,WhatsApp,Yes,No response
+CUST_0133,1,Medium,46172,5100.0,2025-10-19,2025-10-19,0,WhatsApp,No,Paid already
+CUST_0134,2,Medium,62874,3900.0,2025-10-23,2025-12-22,60,AI_Call,No,Please stop calling
+CUST_0135,3,Low,27657,1400.0,2025-10-06,2025-10-09,3,IVR,No,Please stop calling
+CUST_0136,2,Low,45425,5000.0,2025-10-24,2025-10-24,0,Agent,No,Dispute on EMI amount
+CUST_0137,2,Medium,46685,2600.0,2025-10-19,2025-11-03,15,IVR,No,"Lost my job, need more time"
+CUST_0138,3,Low,44578,6400.0,2025-10-05,2025-10-05,0,AI_Call,Yes,Please stop calling
+CUST_0139,2,Low,48831,2600.0,2025-10-26,2025-10-26,0,Agent,No,Need settlement offer
+CUST_0140,3,Low,27906,3100.0,2025-10-04,2025-10-04,0,AI_Call,No,"Lost my job, need more time"
+CUST_0141,3,Low,81413,3900.0,2025-10-15,2025-10-22,7,IVR,No,Dispute on EMI amount
+CUST_0142,2,Low,74028,3900.0,2025-10-29,2025-11-01,3,AI_Call,No,Please stop calling
+CUST_0143,2,Low,27287,1400.0,2025-10-04,2025-10-07,3,WhatsApp,No,Please stop calling
+CUST_0144,2,Low,53660,6700.0,2025-10-20,2025-10-20,0,WhatsApp,No,No response
+CUST_0145,2,Low,95758,7400.0,2025-10-10,2025-10-10,0,IVR,No,Will pay next week
+CUST_0146,1,Medium,80504,3800.0,2025-10-24,2025-10-24,0,IVR,No,Paid already
+CUST_0147,2,Medium,79720,5300.0,2025-10-22,2025-10-29,7,WhatsApp,No,"Lost my job, need more time"
+CUST_0148,2,Medium,54701,6100.0,2025-10-03,2025-10-03,0,Agent,Yes,Will pay tomorrow
+CUST_0149,1,Medium,37674,1600.0,2025-10-26,2025-10-26,0,AI_Call,No,"Lost my job, need more time"
+CUST_0150,2,Low,43874,6300.0,2025-10-05,2025-10-20,15,IVR,No,No response
+CUST_0151,3,Low,63642,2900.0,2025-10-06,2025-10-06,0,Agent,No,No response
+CUST_0152,2,Medium,85160,4700.0,2025-10-21,2025-12-05,45,IVR,No,Need settlement offer
+CUST_0153,1,Medium,37602,4200.0,2025-10-22,2025-10-22,0,Agent,No,Dispute on EMI amount
+CUST_0154,2,Medium,45931,2900.0,2025-10-08,2025-10-11,3,IVR,No,Will pay tomorrow
+CUST_0155,3,Low,49192,4100.0,2025-10-07,2025-10-07,0,WhatsApp,Yes,Will pay tomorrow
+CUST_0156,2,Low,66542,3900.0,2025-10-21,2025-11-20,30,AI_Call,No,Paid already
+CUST_0157,2,Low,62520,4200.0,2025-10-10,2025-10-10,0,AI_Call,No,Dispute on EMI amount
+CUST_0158,3,Low,84772,7100.0,2025-10-06,2025-10-06,0,AI_Call,No,Will clear dues soon
+CUST_0159,2,Medium,78762,4400.0,2025-10-14,2025-10-14,0,Agent,No,No response
+CUST_0160,3,Medium,70106,5800.0,2025-10-04,2025-10-04,0,AI_Call,Yes,Will pay tomorrow
+CUST_0161,2,Low,45559,2100.0,2025-10-28,2025-10-28,0,AI_Call,Yes,Will pay next week
+CUST_0162,2,High,53742,3600.0,2025-10-25,2025-12-09,45,Agent,No,Will pay tomorrow
+CUST_0163,2,Medium,89669,6000.0,2025-10-13,2025-10-13,0,AI_Call,No,Cannot pay right now
+CUST_0164,2,Low,41754,4600.0,2025-10-20,2025-10-27,7,IVR,No,Cannot pay right now
+CUST_0165,1,Low,23972,2700.0,2025-10-17,2025-10-20,3,Agent,No,Paid already
+CUST_0166,3,Low,90831,7600.0,2025-10-23,2025-10-26,3,WhatsApp,No,Will pay tomorrow
+CUST_0167,2,Low,61873,10300.0,2025-10-07,2025-10-07,0,AI_Call,No,Will pay tomorrow
+CUST_0168,1,Low,29903,1800.0,2025-10-04,2025-10-04,0,Agent,No,Paid already
+CUST_0169,1,Low,23020,1300.0,2025-10-29,2025-11-05,7,AI_Call,No,Will pay next week
+CUST_0170,2,Low,61755,4100.0,2025-10-14,2025-11-28,45,AI_Call,No,Will pay next week
+CUST_0171,2,Low,65648,3300.0,2025-10-03,2025-10-03,0,AI_Call,No,No response
+CUST_0172,1,Medium,29516,1600.0,2025-10-24,2025-10-24,0,IVR,Yes,Will clear dues soon
+CUST_0173,2,Low,22396,1600.0,2025-10-05,2025-10-05,0,Agent,No,Will pay next week
+CUST_0174,2,Medium,39129,2800.0,2025-10-16,2025-12-15,60,WhatsApp,No,Paid already
+CUST_0175,2,Low,21591,1100.0,2025-10-26,2025-10-26,0,WhatsApp,No,Need settlement offer
+CUST_0176,1,High,31303,2100.0,2025-10-23,2025-10-23,0,WhatsApp,No,Need settlement offer
+CUST_0177,2,Low,50561,3400.0,2025-10-20,2025-11-19,30,IVR,No,Cannot pay right now
+CUST_0178,2,Low,91719,7100.0,2025-10-04,2025-10-04,0,IVR,No,Will pay next week
+CUST_0179,3,High,27314,1300.0,2025-10-24,2025-10-24,0,AI_Call,Yes,Paid already
+CUST_0180,1,Medium,39623,1800.0,2025-10-30,2025-11-02,3,IVR,No,Will pay next week
+CUST_0181,2,Medium,87675,8800.0,2025-10-24,2025-11-23,30,IVR,No,Cannot pay right now
+CUST_0182,1,Low,85082,9500.0,2025-10-02,2025-10-02,0,WhatsApp,No,Please stop calling
+CUST_0183,3,Low,53130,2300.0,2025-10-30,2025-10-30,0,IVR,No,"Lost my job, need more time"
+CUST_0184,3,Medium,71756,8000.0,2025-10-18,2025-10-18,0,AI_Call,Yes,No response
+CUST_0185,2,High,46292,3900.0,2025-10-19,2025-10-19,0,WhatsApp,No,No response
+CUST_0186,2,Medium,89274,6000.0,2025-10-28,2025-10-31,3,WhatsApp,No,Cannot pay right now
+CUST_0187,3,Medium,22469,1000.0,2025-10-28,2025-10-28,0,WhatsApp,No,No response
+CUST_0188,2,Low,73947,8200.0,2025-10-19,2025-10-19,0,WhatsApp,No,Paid already
+CUST_0189,2,Medium,42534,2800.0,2025-10-17,2025-10-17,0,IVR,No,Please stop calling
+CUST_0190,2,Low,83620,13900.0,2025-10-14,2025-10-17,3,WhatsApp,Yes,Please stop calling
+CUST_0191,1,Low,68874,3000.0,2025-10-19,2025-10-19,0,AI_Call,No,Dispute on EMI amount
+CUST_0192,3,Low,69708,7000.0,2025-10-22,2025-11-06,15,AI_Call,No,Need settlement offer
+CUST_0193,3,Medium,94553,4700.0,2025-10-24,2025-10-24,0,IVR,Yes,Will pay tomorrow
+CUST_0194,2,Low,88344,4000.0,2025-10-13,2025-10-28,15,Agent,Yes,Paid already
+CUST_0195,2,Low,69138,8600.0,2025-10-12,2025-10-27,15,IVR,Yes,"Lost my job, need more time"
+CUST_0196,2,Medium,74302,4400.0,2025-10-30,2025-10-30,0,IVR,Yes,Will pay next week
+CUST_0197,3,Low,67638,9700.0,2025-10-26,2025-10-26,0,Agent,No,Will pay tomorrow
+CUST_0198,3,Medium,98249,16400.0,2025-10-06,2025-10-06,0,WhatsApp,No,Will pay next week
+CUST_0199,3,Low,22719,1000.0,2025-10-21,2025-10-21,0,Agent,No,Need settlement offer
+CUST_0200,3,Low,42890,2000.0,2025-10-04,2025-10-04,0,WhatsApp,No,Will pay next week
+CUST_0201,2,Medium,97236,9700.0,2025-10-19,2025-10-19,0,IVR,No,Need settlement offer
+CUST_0202,1,Low,56509,2800.0,2025-10-16,2025-10-16,0,WhatsApp,No,Will pay tomorrow
+CUST_0203,1,Low,62534,7800.0,2025-10-13,2025-10-28,15,AI_Call,No,Cannot pay right now
+CUST_0204,3,Low,38787,3200.0,2025-10-04,2025-10-04,0,AI_Call,No,No response
+CUST_0205,2,Low,68845,4300.0,2025-10-30,2025-11-14,15,AI_Call,No,Will pay next week
+CUST_0206,1,High,77932,5200.0,2025-10-23,2025-10-23,0,IVR,No,Will pay tomorrow
+CUST_0207,1,Low,53062,3800.0,2025-10-17,2025-11-16,30,IVR,No,"Lost my job, need more time"
+CUST_0208,2,Medium,95713,5000.0,2025-10-23,2025-10-26,3,WhatsApp,Yes,Will pay next week
+CUST_0209,1,Low,80461,4500.0,2025-10-01,2025-10-01,0,WhatsApp,No,No response
+CUST_0210,1,Medium,95418,13600.0,2025-10-18,2025-10-21,3,Agent,No,Cannot pay right now
+CUST_0211,2,Medium,86672,10800.0,2025-10-20,2025-10-20,0,IVR,No,Cannot pay right now
+CUST_0212,2,Medium,54832,4600.0,2025-10-17,2025-10-17,0,AI_Call,No,"Lost my job, need more time"
+CUST_0213,2,Low,51966,2300.0,2025-10-27,2025-11-26,30,AI_Call,No,Paid already
+CUST_0214,2,Low,92545,11600.0,2025-10-28,2025-10-28,0,IVR,No,"Lost my job, need more time"
+CUST_0215,3,Low,32987,2200.0,2025-10-27,2025-10-27,0,AI_Call,No,Will pay next week
+CUST_0216,2,High,57311,4800.0,2025-10-15,2025-10-22,7,WhatsApp,No,Paid already
+CUST_0217,2,Medium,51575,3700.0,2025-10-11,2025-11-10,30,WhatsApp,No,Please stop calling
+CUST_0218,3,High,83852,3800.0,2025-10-25,2025-10-28,3,WhatsApp,No,Cannot pay right now
+CUST_0219,2,Low,21007,1300.0,2025-10-28,2025-10-28,0,IVR,No,No response
+CUST_0220,3,Medium,90981,7600.0,2025-10-22,2025-10-25,3,IVR,Yes,Cannot pay right now
+CUST_0221,2,High,96242,5100.0,2025-10-13,2025-10-13,0,IVR,No,Cannot pay right now
+CUST_0222,2,Low,67517,7500.0,2025-10-01,2025-10-08,7,IVR,Yes,Dispute on EMI amount
+CUST_0223,1,Low,49257,4500.0,2025-10-17,2025-12-01,45,IVR,No,Will pay tomorrow
+CUST_0224,2,Medium,62207,4100.0,2025-10-06,2025-10-13,7,AI_Call,No,Will pay tomorrow
+CUST_0225,2,Medium,33281,2800.0,2025-10-04,2025-10-19,15,AI_Call,No,Cannot pay right now
+CUST_0226,2,Medium,81246,4500.0,2025-10-20,2025-10-20,0,WhatsApp,Yes,Will clear dues soon
+CUST_0227,3,Low,21435,1100.0,2025-10-16,2025-10-23,7,WhatsApp,No,Need settlement offer
+CUST_0228,2,Medium,46660,5200.0,2025-10-15,2025-10-30,15,AI_Call,No,"Lost my job, need more time"
+CUST_0229,3,Low,25084,1900.0,2025-10-27,2025-10-27,0,IVR,Yes,Please stop calling
+CUST_0230,2,Low,33507,3400.0,2025-10-15,2025-11-14,30,AI_Call,No,Paid already
+CUST_0231,3,Low,92595,15400.0,2025-10-06,2025-10-06,0,WhatsApp,Yes,Will clear dues soon
+CUST_0232,2,Medium,65539,7300.0,2025-10-15,2025-10-18,3,IVR,No,"Lost my job, need more time"
+CUST_0233,2,Medium,27491,3400.0,2025-10-14,2025-10-29,15,WhatsApp,No,Dispute on EMI amount
+CUST_0234,2,Medium,70192,5000.0,2025-10-28,2025-10-31,3,WhatsApp,No,Need settlement offer
+CUST_0235,1,Low,83888,6500.0,2025-10-11,2025-10-11,0,AI_Call,No,Will pay next week
+CUST_0236,3,Medium,93609,15600.0,2025-10-07,2025-10-10,3,IVR,No,Dispute on EMI amount
+CUST_0237,2,Low,29077,2600.0,2025-10-09,2025-10-09,0,AI_Call,No,No response
+CUST_0238,1,Medium,40953,2900.0,2025-10-26,2025-11-25,30,Agent,Yes,Will clear dues soon
+CUST_0239,2,Low,96919,8100.0,2025-10-16,2025-10-16,0,IVR,Yes,Cannot pay right now
+CUST_0240,1,Low,87889,9800.0,2025-10-05,2025-10-05,0,AI_Call,Yes,Will pay tomorrow
+CUST_0241,3,Low,43821,2400.0,2025-10-25,2025-11-01,7,WhatsApp,No,Will pay next week
+CUST_0242,3,Low,57567,2600.0,2025-10-20,2025-10-20,0,IVR,No,Need settlement offer
+CUST_0243,3,Medium,44860,6400.0,2025-10-29,2025-11-01,3,AI_Call,No,Paid already
+CUST_0244,2,Medium,41195,4100.0,2025-10-10,2025-10-13,3,IVR,No,Dispute on EMI amount
+CUST_0245,1,Low,97475,5700.0,2025-10-18,2025-11-17,30,IVR,No,Please stop calling
+CUST_0246,3,Medium,41427,3200.0,2025-10-03,2025-10-06,3,WhatsApp,No,Need settlement offer
+CUST_0247,2,Low,47083,4300.0,2025-10-13,2025-10-13,0,IVR,No,Will clear dues soon
+CUST_0248,3,Medium,77372,6000.0,2025-10-11,2025-10-11,0,Agent,No,Paid already
+CUST_0249,3,High,64064,2800.0,2025-10-17,2025-10-17,0,Agent,No,Will clear dues soon
+CUST_0250,3,Medium,27813,3500.0,2025-10-30,2025-10-30,0,AI_Call,No,Need settlement offer
+CUST_0251,2,Low,51598,3000.0,2025-10-30,2025-10-30,0,AI_Call,No,Will clear dues soon
+CUST_0252,2,High,47082,5900.0,2025-10-22,2025-10-25,3,IVR,Yes,Will pay next week
+CUST_0253,3,Medium,49241,4500.0,2025-10-13,2025-10-20,7,IVR,No,Cannot pay right now
+CUST_0254,2,Low,64569,9200.0,2025-10-06,2025-10-06,0,WhatsApp,No,Will pay tomorrow
+CUST_0255,1,Low,31745,1900.0,2025-10-17,2025-11-01,15,IVR,Yes,Paid already
+CUST_0256,2,Medium,46029,6600.0,2025-10-27,2025-12-26,60,IVR,No,Will clear dues soon
+CUST_0257,3,Medium,33025,3000.0,2025-10-13,2025-10-28,15,Agent,Yes,Paid already
+CUST_0258,2,Medium,34288,1600.0,2025-10-19,2025-10-22,3,IVR,No,No response
+CUST_0259,2,Medium,26540,3300.0,2025-10-21,2025-10-21,0,IVR,Yes,Please stop calling
+CUST_0260,1,Medium,88878,12700.0,2025-10-19,2025-10-19,0,IVR,No,Need settlement offer
+CUST_0261,2,Low,61846,4800.0,2025-10-10,2025-10-10,0,AI_Call,No,Will pay next week
+CUST_0262,3,Low,95932,5600.0,2025-10-03,2025-10-03,0,AI_Call,No,Need settlement offer
+CUST_0263,1,Low,37482,4200.0,2025-10-14,2025-11-13,30,WhatsApp,No,Will pay next week
+CUST_0264,2,Medium,43411,4300.0,2025-10-26,2025-11-10,15,IVR,No,"Lost my job, need more time"
+CUST_0265,3,Low,70975,3900.0,2025-10-19,2025-10-19,0,AI_Call,No,"Lost my job, need more time"
+CUST_0266,3,Medium,80545,4000.0,2025-10-05,2025-10-05,0,IVR,Yes,Will pay next week
+CUST_0267,2,Medium,98797,4700.0,2025-10-29,2025-11-13,15,WhatsApp,No,Will clear dues soon
+CUST_0268,3,Medium,72307,4800.0,2025-10-05,2025-10-05,0,AI_Call,No,Cannot pay right now
+CUST_0269,2,Low,23093,1100.0,2025-10-20,2025-10-20,0,AI_Call,No,Cannot pay right now
+CUST_0270,2,Medium,97258,5700.0,2025-10-17,2025-11-01,15,WhatsApp,No,Need settlement offer
+CUST_0271,3,Low,42042,1900.0,2025-10-21,2025-10-21,0,AI_Call,No,Will pay next week
+CUST_0272,3,Medium,72930,3500.0,2025-10-10,2025-10-10,0,AI_Call,No,Paid already
+CUST_0273,3,Low,64413,3800.0,2025-10-05,2025-10-05,0,IVR,No,Cannot pay right now
+CUST_0274,3,Low,53756,4100.0,2025-10-04,2025-10-19,15,Agent,No,Will pay next week
+CUST_0275,2,Medium,73268,9200.0,2025-10-06,2025-10-09,3,AI_Call,Yes,Will pay tomorrow
+CUST_0276,2,Low,59214,2800.0,2025-10-26,2025-10-26,0,AI_Call,No,No response
+CUST_0277,3,Low,48602,2700.0,2025-10-04,2025-10-04,0,AI_Call,No,"Lost my job, need more time"
+CUST_0278,2,Medium,73331,5600.0,2025-10-30,2025-10-30,0,WhatsApp,No,Will pay tomorrow
+CUST_0279,3,Medium,68901,6900.0,2025-10-07,2025-10-10,3,WhatsApp,Yes,Will clear dues soon
+CUST_0280,3,Medium,83416,6400.0,2025-10-07,2025-10-14,7,IVR,No,Dispute on EMI amount
+CUST_0281,3,Medium,52196,3100.0,2025-10-18,2025-10-18,0,WhatsApp,No,Need settlement offer
+CUST_0282,2,Medium,25626,4300.0,2025-10-03,2025-11-02,30,IVR,No,Please stop calling
+CUST_0283,2,Low,27424,2500.0,2025-10-01,2025-10-01,0,Agent,No,Will clear dues soon
+CUST_0284,1,Low,32857,1400.0,2025-10-24,2025-10-24,0,AI_Call,No,Will pay next week
+CUST_0285,2,Low,39982,3100.0,2025-10-25,2025-10-25,0,AI_Call,Yes,No response
+CUST_0286,1,High,96961,8100.0,2025-10-04,2025-10-04,0,Agent,No,Need settlement offer
+CUST_0287,2,Medium,21980,3700.0,2025-10-06,2025-10-06,0,AI_Call,Yes,Dispute on EMI amount
+CUST_0288,2,Low,68290,3300.0,2025-10-09,2025-10-09,0,IVR,No,Will pay tomorrow
+CUST_0289,2,Low,46431,2700.0,2025-10-22,2025-10-22,0,WhatsApp,No,Will pay next week
+CUST_0290,2,High,46385,4200.0,2025-10-14,2025-10-17,3,IVR,No,"Lost my job, need more time"
+CUST_0291,1,Low,58158,8300.0,2025-10-28,2025-10-28,0,AI_Call,No,"Lost my job, need more time"
+CUST_0292,1,Medium,43019,2300.0,2025-10-12,2025-10-19,7,IVR,No,"Lost my job, need more time"
+CUST_0293,3,Medium,38639,4300.0,2025-10-28,2025-12-12,45,AI_Call,No,Please stop calling
+CUST_0294,2,Medium,41563,6900.0,2025-10-25,2025-10-25,0,WhatsApp,Yes,Will pay tomorrow
+CUST_0295,1,Low,59341,2600.0,2025-10-20,2025-10-20,0,AI_Call,No,Will pay tomorrow
+CUST_0296,2,Medium,25776,1400.0,2025-10-24,2025-10-24,0,AI_Call,No,Need settlement offer
+CUST_0297,3,High,56444,8100.0,2025-10-25,2025-10-25,0,AI_Call,No,"Lost my job, need more time"
+CUST_0298,2,Medium,88916,6400.0,2025-10-04,2025-10-04,0,Agent,No,No response
+CUST_0299,2,Medium,28711,4100.0,2025-10-21,2025-10-28,7,AI_Call,No,Will clear dues soon
+CUST_0300,1,High,94318,6700.0,2025-10-30,2025-11-02,3,Agent,No,No response
+CUST_0301,1,Medium,50707,8500.0,2025-10-24,2025-10-24,0,Agent,Yes,Paid already
+CUST_0302,2,Low,59110,3700.0,2025-10-12,2025-10-27,15,AI_Call,No,Please stop calling
+CUST_0303,2,Medium,81788,10200.0,2025-10-10,2025-10-10,0,AI_Call,No,Will clear dues soon
+CUST_0304,2,Medium,58827,6500.0,2025-10-30,2025-11-14,15,WhatsApp,Yes,Will clear dues soon
+CUST_0305,3,Low,25655,1100.0,2025-10-22,2025-10-25,3,IVR,Yes,Will clear dues soon
+CUST_0306,3,Medium,64859,5900.0,2025-10-28,2025-10-31,3,IVR,Yes,"Lost my job, need more time"
+CUST_0307,2,High,73625,9200.0,2025-10-07,2025-10-07,0,WhatsApp,No,Need settlement offer
+CUST_0308,2,High,72098,4500.0,2025-10-03,2025-10-03,0,WhatsApp,No,Dispute on EMI amount
+CUST_0309,3,Low,35251,1800.0,2025-10-23,2025-12-07,45,Agent,Yes,Will clear dues soon
+CUST_0310,2,Low,20526,2100.0,2025-10-28,2025-10-28,0,Agent,Yes,Cannot pay right now
+CUST_0311,2,High,88760,5900.0,2025-10-14,2025-11-28,45,AI_Call,No,Paid already
+CUST_0312,1,Medium,67837,4000.0,2025-10-24,2025-10-24,0,IVR,No,"Lost my job, need more time"
+CUST_0313,1,Low,31536,1600.0,2025-10-10,2025-10-10,0,WhatsApp,No,No response
+CUST_0314,3,High,48541,2200.0,2025-10-16,2025-10-16,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0315,3,Medium,99083,6600.0,2025-10-16,2025-10-16,0,WhatsApp,No,Cannot pay right now
+CUST_0316,2,Medium,71027,6500.0,2025-10-22,2025-11-21,30,WhatsApp,No,Please stop calling
+CUST_0317,2,Medium,54531,2400.0,2025-10-10,2025-10-10,0,WhatsApp,No,Dispute on EMI amount
+CUST_0318,1,Low,28712,1600.0,2025-10-25,2025-10-25,0,Agent,No,Please stop calling
+CUST_0319,1,Low,85455,10700.0,2025-10-13,2025-10-13,0,AI_Call,No,Will pay next week
+CUST_0320,2,Low,94744,6300.0,2025-10-06,2025-10-06,0,WhatsApp,No,Dispute on EMI amount
+CUST_0321,2,Medium,25109,1300.0,2025-10-12,2025-10-12,0,WhatsApp,Yes,Dispute on EMI amount
+CUST_0322,3,Low,69268,6300.0,2025-10-09,2025-10-09,0,IVR,No,Paid already
+CUST_0323,2,Low,74615,9300.0,2025-10-13,2025-10-28,15,WhatsApp,No,Will pay next week
+CUST_0324,2,Low,49759,2400.0,2025-10-04,2025-10-04,0,Agent,No,Please stop calling
+CUST_0325,3,Medium,80112,6700.0,2025-10-24,2025-10-24,0,IVR,Yes,Will pay tomorrow
+CUST_0326,3,High,46589,2500.0,2025-10-11,2025-10-11,0,IVR,No,Need settlement offer
+CUST_0327,2,Low,50015,3600.0,2025-10-20,2025-10-20,0,IVR,No,"Lost my job, need more time"
+CUST_0328,2,Low,49009,2500.0,2025-10-18,2025-12-17,60,WhatsApp,Yes,No response
+CUST_0329,2,Medium,82046,10300.0,2025-10-26,2025-10-26,0,AI_Call,No,Please stop calling
+CUST_0330,2,Low,46143,6600.0,2025-10-11,2025-10-11,0,AI_Call,No,Paid already
+CUST_0331,2,Low,26154,3700.0,2025-10-25,2025-10-28,3,AI_Call,No,No response
+CUST_0332,3,Low,41804,5200.0,2025-10-21,2025-10-21,0,WhatsApp,Yes,No response
+CUST_0333,1,Low,61688,2700.0,2025-10-04,2025-10-04,0,IVR,No,Cannot pay right now
+CUST_0334,1,Low,84288,4400.0,2025-10-18,2025-12-02,45,IVR,No,Will pay tomorrow
+CUST_0335,1,Low,71195,3100.0,2025-10-01,2025-10-08,7,Agent,No,Need settlement offer
+CUST_0336,1,Low,40581,2700.0,2025-10-27,2025-12-26,60,IVR,No,Please stop calling
+CUST_0337,3,High,72648,10400.0,2025-10-07,2025-10-07,0,IVR,No,Will pay next week
+CUST_0338,3,Low,50087,8300.0,2025-10-06,2025-10-06,0,AI_Call,No,"Lost my job, need more time"
+CUST_0339,2,Medium,69930,7800.0,2025-10-15,2025-10-15,0,AI_Call,No,"Lost my job, need more time"
+CUST_0340,1,Medium,52981,2800.0,2025-10-18,2025-10-18,0,IVR,No,Paid already
+CUST_0341,2,Low,89298,14900.0,2025-10-24,2025-11-08,15,IVR,Yes,Dispute on EMI amount
+CUST_0342,2,Medium,66167,3500.0,2025-10-11,2025-10-11,0,IVR,No,No response
+CUST_0343,1,Low,95304,4500.0,2025-10-20,2025-11-04,15,Agent,No,Cannot pay right now
+CUST_0344,2,High,63408,3300.0,2025-10-24,2025-10-31,7,IVR,No,Cannot pay right now
+CUST_0345,2,Low,59499,7400.0,2025-10-15,2025-10-15,0,Agent,Yes,Will pay next week
+CUST_0346,2,Low,72269,9000.0,2025-10-16,2025-10-16,0,IVR,No,Cannot pay right now
+CUST_0347,2,Low,58559,4200.0,2025-10-07,2025-10-10,3,Agent,No,No response
+CUST_0348,1,High,94319,8600.0,2025-10-21,2025-10-21,0,AI_Call,Yes,Will clear dues soon
+CUST_0349,2,Medium,68787,3800.0,2025-10-10,2025-10-25,15,IVR,Yes,Dispute on EMI amount
+CUST_0350,2,Medium,55488,7900.0,2025-10-26,2025-10-26,0,Agent,Yes,Will clear dues soon
+CUST_0351,2,Low,94441,7300.0,2025-10-12,2025-10-12,0,WhatsApp,No,Dispute on EMI amount
+CUST_0352,3,Medium,94663,13500.0,2025-10-24,2025-10-27,3,Agent,Yes,Will pay tomorrow
+CUST_0353,2,Low,42431,4700.0,2025-10-14,2025-12-13,60,AI_Call,Yes,Will pay tomorrow
+CUST_0354,1,Medium,81681,4100.0,2025-10-25,2025-10-25,0,WhatsApp,No,Will pay next week
+CUST_0355,1,Low,83483,9300.0,2025-10-05,2025-10-20,15,AI_Call,No,Will clear dues soon
+CUST_0356,2,Low,69153,3800.0,2025-10-26,2025-10-26,0,Agent,Yes,Will pay tomorrow
+CUST_0357,1,Low,26368,1600.0,2025-10-21,2025-10-28,7,WhatsApp,Yes,Will pay tomorrow
+CUST_0358,2,Low,47424,2600.0,2025-10-18,2025-10-25,7,IVR,Yes,Will pay tomorrow
+CUST_0359,3,Medium,65004,3400.0,2025-10-05,2025-10-05,0,AI_Call,Yes,"Lost my job, need more time"
+CUST_0360,2,Low,76985,3300.0,2025-10-03,2025-10-03,0,AI_Call,No,Will pay next week
+CUST_0361,2,Medium,70069,6400.0,2025-10-23,2025-10-30,7,IVR,Yes,Paid already
+CUST_0362,2,Low,72326,4500.0,2025-10-26,2025-10-26,0,WhatsApp,Yes,Paid already
+CUST_0363,2,Medium,43398,6200.0,2025-10-05,2025-10-12,7,WhatsApp,No,Need settlement offer
+CUST_0364,2,Low,70861,7100.0,2025-10-24,2025-10-24,0,IVR,No,No response
+CUST_0365,3,Low,95897,13700.0,2025-10-17,2025-11-01,15,IVR,No,Will pay tomorrow
+CUST_0366,2,Medium,88577,5900.0,2025-10-19,2025-10-26,7,Agent,No,Will pay next week
+CUST_0367,3,Low,85641,12200.0,2025-10-19,2025-11-18,30,WhatsApp,No,Cannot pay right now
+CUST_0368,3,Low,29078,1800.0,2025-10-25,2025-10-25,0,AI_Call,No,Will clear dues soon
+CUST_0369,1,Medium,45003,2000.0,2025-10-21,2025-10-24,3,WhatsApp,No,"Lost my job, need more time"
+CUST_0370,1,High,82768,4100.0,2025-10-12,2025-10-15,3,WhatsApp,No,Will clear dues soon
+CUST_0371,1,Low,71047,5100.0,2025-10-25,2025-10-25,0,IVR,No,Will clear dues soon
+CUST_0372,1,Low,91626,6500.0,2025-10-29,2025-10-29,0,IVR,Yes,"Lost my job, need more time"
+CUST_0373,1,Medium,77660,9700.0,2025-10-09,2025-10-09,0,AI_Call,No,Will clear dues soon
+CUST_0374,2,Low,69786,5000.0,2025-10-01,2025-10-08,7,Agent,Yes,Will pay tomorrow
+CUST_0375,1,Low,21925,1200.0,2025-10-18,2025-10-18,0,AI_Call,No,"Lost my job, need more time"
+CUST_0376,2,Low,46015,3800.0,2025-10-21,2025-10-21,0,Agent,No,Paid already
+CUST_0377,3,Medium,53320,2500.0,2025-10-04,2025-10-07,3,Agent,No,Will pay next week
+CUST_0378,1,Medium,84881,4000.0,2025-10-10,2025-10-10,0,IVR,Yes,Paid already
+CUST_0379,3,Low,46289,7700.0,2025-10-25,2025-10-25,0,AI_Call,No,Will pay next week
+CUST_0380,2,Low,23389,2600.0,2025-10-07,2025-11-21,45,AI_Call,No,Please stop calling
+CUST_0381,1,Low,45683,5100.0,2025-10-22,2025-12-06,45,WhatsApp,No,Need settlement offer
+CUST_0382,2,Medium,33629,2800.0,2025-10-23,2025-10-23,0,AI_Call,No,Dispute on EMI amount
+CUST_0383,2,Low,81550,6300.0,2025-10-01,2025-10-01,0,WhatsApp,No,Will clear dues soon
+CUST_0384,3,Low,44826,2000.0,2025-10-17,2025-10-24,7,IVR,No,No response
+CUST_0385,3,Medium,46630,4700.0,2025-10-24,2025-10-24,0,AI_Call,No,Will pay next week
+CUST_0386,3,Low,66163,5500.0,2025-10-29,2025-10-29,0,WhatsApp,No,No response
+CUST_0387,2,Medium,86435,9600.0,2025-10-29,2025-10-29,0,WhatsApp,Yes,Need settlement offer
+CUST_0388,1,Low,31653,2900.0,2025-10-02,2025-10-02,0,Agent,No,Dispute on EMI amount
+CUST_0389,3,Low,47961,4000.0,2025-10-28,2025-10-31,3,AI_Call,No,Cannot pay right now
+CUST_0390,3,Low,94137,4100.0,2025-10-26,2025-10-26,0,WhatsApp,No,Please stop calling
+CUST_0391,3,Medium,53662,5400.0,2025-10-11,2025-10-14,3,AI_Call,Yes,Need settlement offer
+CUST_0392,2,Medium,76446,9600.0,2025-10-09,2025-11-08,30,IVR,No,Will clear dues soon
+CUST_0393,2,Medium,41288,3400.0,2025-10-07,2025-10-07,0,IVR,No,"Lost my job, need more time"
+CUST_0394,3,Low,56877,3000.0,2025-10-22,2025-10-29,7,Agent,No,Will pay tomorrow
+CUST_0395,2,Medium,35313,2900.0,2025-10-17,2025-11-16,30,AI_Call,No,Will clear dues soon
+CUST_0396,3,Low,92715,9300.0,2025-10-17,2025-10-17,0,IVR,No,Will clear dues soon
+CUST_0397,3,Low,30326,3000.0,2025-10-02,2025-10-02,0,AI_Call,No,Please stop calling
+CUST_0398,2,Medium,21560,3100.0,2025-10-06,2025-10-09,3,Agent,No,Will pay next week
+CUST_0399,3,Low,99148,9000.0,2025-10-14,2025-10-17,3,WhatsApp,Yes,Dispute on EMI amount
+CUST_0400,3,Low,46745,2300.0,2025-10-06,2025-10-21,15,WhatsApp,No,Need settlement offer
+CUST_0401,1,Low,51890,3500.0,2025-10-02,2025-10-02,0,WhatsApp,No,Need settlement offer
+CUST_0402,3,Low,40022,3300.0,2025-10-01,2025-11-30,60,AI_Call,No,Need settlement offer
+CUST_0403,2,Low,72579,7300.0,2025-10-10,2025-10-10,0,AI_Call,No,"Lost my job, need more time"
+CUST_0404,3,Medium,90316,15100.0,2025-10-21,2025-10-21,0,AI_Call,No,Will pay tomorrow
+CUST_0405,2,Low,48380,2700.0,2025-10-05,2025-10-08,3,Agent,Yes,Will clear dues soon
+CUST_0406,3,Medium,22356,1000.0,2025-10-02,2025-10-02,0,AI_Call,Yes,No response
+CUST_0407,2,Medium,90326,5000.0,2025-10-22,2025-10-22,0,WhatsApp,Yes,Will pay next week
+CUST_0408,1,Low,40049,1700.0,2025-10-16,2025-10-16,0,WhatsApp,Yes,Please stop calling
+CUST_0409,3,Low,95717,9600.0,2025-10-25,2025-10-25,0,IVR,No,Need settlement offer
+CUST_0410,1,Low,36082,2000.0,2025-10-02,2025-10-02,0,IVR,Yes,Dispute on EMI amount
+CUST_0411,2,Medium,20661,2300.0,2025-10-10,2025-11-24,45,AI_Call,No,Will pay next week
+CUST_0412,3,Low,57412,2600.0,2025-10-02,2025-10-02,0,Agent,No,Will pay next week
+CUST_0413,3,Medium,22920,2900.0,2025-10-16,2025-10-23,7,WhatsApp,No,Please stop calling
+CUST_0414,2,Low,80315,3700.0,2025-10-16,2025-10-23,7,IVR,No,Will pay tomorrow
+CUST_0415,2,Medium,99561,6200.0,2025-10-19,2025-11-18,30,AI_Call,No,Please stop calling
+CUST_0416,2,Low,28946,3200.0,2025-10-29,2025-10-29,0,IVR,Yes,Will clear dues soon
+CUST_0417,2,Low,65500,9400.0,2025-10-07,2025-11-06,30,WhatsApp,No,Please stop calling
+CUST_0418,2,High,36309,1700.0,2025-10-22,2025-10-22,0,IVR,Yes,Cannot pay right now
+CUST_0419,2,Medium,75230,3300.0,2025-10-12,2025-10-15,3,WhatsApp,No,Dispute on EMI amount
+CUST_0420,3,Low,50027,3800.0,2025-10-24,2025-10-27,3,Agent,No,Need settlement offer
+CUST_0421,3,Medium,92541,11600.0,2025-10-15,2025-10-30,15,WhatsApp,Yes,No response
+CUST_0422,3,Low,79321,5700.0,2025-10-08,2025-10-08,0,IVR,Yes,Will clear dues soon
+CUST_0423,1,Medium,20956,1900.0,2025-10-06,2025-10-13,7,IVR,No,"Lost my job, need more time"
+CUST_0424,2,Medium,94131,6300.0,2025-10-28,2025-10-28,0,Agent,No,Will clear dues soon
+CUST_0425,1,Low,67908,4500.0,2025-10-27,2025-11-03,7,WhatsApp,No,Please stop calling
+CUST_0426,2,Low,98339,5500.0,2025-10-10,2025-12-09,60,WhatsApp,No,Paid already
+CUST_0427,2,Low,45963,2100.0,2025-10-03,2025-10-03,0,WhatsApp,Yes,Need settlement offer
+CUST_0428,3,Medium,59443,4200.0,2025-10-19,2025-12-18,60,WhatsApp,No,"Lost my job, need more time"
+CUST_0429,2,Medium,59063,2700.0,2025-10-17,2025-10-17,0,WhatsApp,No,Will clear dues soon
+CUST_0430,1,Low,24703,1800.0,2025-10-07,2025-10-07,0,AI_Call,No,Paid already
+CUST_0431,1,Low,85128,6100.0,2025-10-21,2025-10-21,0,WhatsApp,No,No response
+CUST_0432,3,Medium,92099,15300.0,2025-10-20,2025-10-20,0,WhatsApp,No,Will pay tomorrow
+CUST_0433,2,High,45849,6500.0,2025-10-26,2025-10-29,3,AI_Call,No,No response
+CUST_0434,1,Medium,51860,2500.0,2025-10-04,2025-10-04,0,IVR,No,No response
+CUST_0435,1,Low,51585,8600.0,2025-10-14,2025-10-14,0,IVR,Yes,Please stop calling
+CUST_0436,3,Low,42015,2800.0,2025-10-20,2025-11-19,30,WhatsApp,No,Please stop calling
+CUST_0437,1,Low,97539,4200.0,2025-10-22,2025-11-06,15,Agent,No,Dispute on EMI amount
+CUST_0438,3,High,63585,4900.0,2025-10-15,2025-10-30,15,WhatsApp,Yes,Please stop calling
+CUST_0439,3,Low,46958,2900.0,2025-10-24,2025-11-23,30,Agent,No,Cannot pay right now
+CUST_0440,1,Medium,46017,6600.0,2025-10-08,2025-10-15,7,AI_Call,No,No response
+CUST_0441,1,Low,96707,7400.0,2025-10-21,2025-10-21,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0442,3,Medium,65350,5000.0,2025-10-15,2025-10-15,0,Agent,Yes,Cannot pay right now
+CUST_0443,2,Medium,32201,1500.0,2025-10-22,2025-10-29,7,WhatsApp,No,No response
+CUST_0444,2,Medium,49426,2500.0,2025-10-20,2025-10-20,0,WhatsApp,Yes,Need settlement offer
+CUST_0445,3,Low,37778,1700.0,2025-10-28,2025-10-31,3,AI_Call,No,Paid already
+CUST_0446,3,Low,65241,3600.0,2025-10-14,2025-10-14,0,AI_Call,Yes,No response
+CUST_0447,3,Low,62229,6200.0,2025-10-27,2025-10-27,0,AI_Call,No,Will clear dues soon
+CUST_0448,3,High,68364,4000.0,2025-10-29,2025-10-29,0,WhatsApp,No,Cannot pay right now
+CUST_0449,2,Medium,77056,12800.0,2025-10-09,2025-10-12,3,IVR,No,Need settlement offer
+CUST_0450,1,Medium,47490,4700.0,2025-10-08,2025-10-11,3,AI_Call,No,No response
+CUST_0451,3,Medium,39975,3100.0,2025-10-26,2025-10-29,3,WhatsApp,No,"Lost my job, need more time"
+CUST_0452,2,Medium,46723,2600.0,2025-10-28,2025-10-28,0,WhatsApp,No,No response
+CUST_0453,2,Low,43279,3300.0,2025-10-26,2025-10-26,0,WhatsApp,Yes,Dispute on EMI amount
+CUST_0454,3,High,98301,6100.0,2025-10-17,2025-11-01,15,WhatsApp,No,No response
+CUST_0455,1,Low,31561,5300.0,2025-10-02,2025-10-05,3,Agent,Yes,No response
+CUST_0456,2,Low,86061,4800.0,2025-10-25,2025-10-25,0,IVR,No,"Lost my job, need more time"
+CUST_0457,1,Medium,69153,8600.0,2025-10-24,2025-11-08,15,Agent,Yes,Please stop calling
+CUST_0458,2,Low,53142,2400.0,2025-10-30,2025-10-30,0,IVR,No,No response
+CUST_0459,1,Low,46916,4700.0,2025-10-03,2025-10-03,0,AI_Call,No,"Lost my job, need more time"
+CUST_0460,1,Medium,84324,6500.0,2025-10-08,2025-10-08,0,WhatsApp,No,Will clear dues soon
+CUST_0461,1,Low,64965,3400.0,2025-10-12,2025-10-19,7,IVR,Yes,Cannot pay right now
+CUST_0462,2,Medium,24648,2700.0,2025-10-01,2025-10-04,3,WhatsApp,No,Will pay next week
+CUST_0463,3,Low,55133,3400.0,2025-10-10,2025-10-10,0,WhatsApp,No,Paid already
+CUST_0464,2,Low,70677,3500.0,2025-10-20,2025-11-04,15,IVR,No,Will clear dues soon
+CUST_0465,3,Low,90135,7500.0,2025-10-03,2025-10-03,0,Agent,No,Paid already
+CUST_0466,2,Low,55046,3400.0,2025-10-06,2025-10-06,0,AI_Call,No,Will pay next week
+CUST_0467,2,Medium,67064,6700.0,2025-10-07,2025-10-07,0,WhatsApp,No,Need settlement offer
+CUST_0468,3,Low,89350,8900.0,2025-10-20,2025-10-20,0,WhatsApp,No,"Lost my job, need more time"
+CUST_0469,2,Medium,65893,5100.0,2025-10-23,2025-10-23,0,WhatsApp,No,Need settlement offer
+CUST_0470,3,Low,81272,5400.0,2025-10-25,2025-10-28,3,IVR,No,Will pay tomorrow
+CUST_0471,1,Medium,87649,8000.0,2025-10-27,2025-11-11,15,AI_Call,Yes,Cannot pay right now
+CUST_0472,3,High,84674,4200.0,2025-10-18,2025-10-18,0,Agent,Yes,Will pay tomorrow
+CUST_0473,1,Medium,33760,1600.0,2025-10-11,2025-10-11,0,WhatsApp,Yes,No response
+CUST_0474,3,Low,41927,1900.0,2025-10-19,2025-10-19,0,IVR,Yes,Will pay tomorrow
+CUST_0475,2,Low,81367,6300.0,2025-10-05,2025-10-05,0,IVR,No,No response
+CUST_0476,3,Low,32588,2500.0,2025-10-19,2025-10-19,0,AI_Call,No,Will pay next week
+CUST_0477,1,Medium,72233,5200.0,2025-10-11,2025-10-18,7,IVR,Yes,Will pay tomorrow
+CUST_0478,2,Low,64738,9200.0,2025-10-24,2025-10-24,0,AI_Call,No,Need settlement offer
+CUST_0479,3,Low,53397,2700.0,2025-10-12,2025-10-19,7,AI_Call,Yes,Will pay next week
+CUST_0480,2,Medium,96367,4200.0,2025-10-10,2025-10-25,15,WhatsApp,No,"Lost my job, need more time"
+CUST_0481,2,Low,91260,11400.0,2025-10-08,2025-10-08,0,AI_Call,No,Need settlement offer
+CUST_0482,2,Medium,96619,4400.0,2025-10-24,2025-11-08,15,WhatsApp,No,Will pay tomorrow
+CUST_0483,2,Low,39816,4400.0,2025-10-28,2025-10-31,3,AI_Call,Yes,Please stop calling
+CUST_0484,2,Low,62240,6900.0,2025-10-28,2025-10-31,3,IVR,No,Will clear dues soon
+CUST_0485,2,Medium,26276,1400.0,2025-10-09,2025-10-09,0,IVR,No,No response
+CUST_0486,3,Low,99530,7100.0,2025-10-04,2025-10-04,0,Agent,No,Need settlement offer
+CUST_0487,1,Medium,43499,3100.0,2025-10-05,2025-10-05,0,Agent,No,Paid already
+CUST_0488,2,Low,91635,4000.0,2025-10-21,2025-10-21,0,AI_Call,No,No response
+CUST_0489,3,Low,55946,3700.0,2025-10-08,2025-10-08,0,IVR,Yes,No response
+CUST_0490,3,Medium,75204,8400.0,2025-10-23,2025-10-26,3,AI_Call,No,Need settlement offer
+CUST_0491,2,Medium,71886,4200.0,2025-10-09,2025-10-09,0,IVR,No,Will pay next week
+CUST_0492,2,Medium,91652,7100.0,2025-10-15,2025-11-14,30,Agent,No,Will pay tomorrow
+CUST_0493,2,Low,35563,5100.0,2025-10-15,2025-10-22,7,IVR,Yes,Please stop calling
+CUST_0494,1,Medium,29847,1700.0,2025-10-16,2025-10-16,0,Agent,No,Paid already
+CUST_0495,2,Low,46155,2200.0,2025-10-14,2025-10-14,0,Agent,No,Paid already
+CUST_0496,2,Low,99671,14200.0,2025-10-08,2025-11-07,30,AI_Call,No,Will clear dues soon
+CUST_0497,2,High,87278,5500.0,2025-10-18,2025-11-02,15,WhatsApp,No,No response
+CUST_0498,1,Low,38309,2600.0,2025-10-10,2025-10-17,7,WhatsApp,No,Will pay next week
+CUST_0499,3,High,20619,1000.0,2025-10-28,2025-10-28,0,Agent,Yes,Dispute on EMI amount
+CUST_0500,3,Low,70108,3200.0,2025-10-20,2025-10-20,0,WhatsApp,No,No response
